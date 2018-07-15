@@ -1,11 +1,4 @@
 ---
-RFC: 
-Author: Josh Rickard
-Status: Draft
-Version: 0.1
-Area: PowerShell Core Web CmdLets
-
-
 RFC: RFC
 Author: Josh Rickard
 Status: Draft
